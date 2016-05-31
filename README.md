@@ -1,2 +1,4 @@
-# RCT2-Shops-and-Stalls
-A little Throwback.
+# CustomSceneryModTemplate
+Mod template for custom scenery
+
+See https://parkitectnexus.com/modding-wiki for documentation

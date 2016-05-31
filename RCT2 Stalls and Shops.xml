@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod>
+  <ModName>RCT2 Stalls and Shops</ModName>
+  <ModDiscription>Throwback to the old days !</ModDiscription>
+  <Objects>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@drink_stall</OBJName>
+      <Type>Shop</Type>
+      <inGameName>Drink Stall</inGameName>
+      <price>250</price>
+      <Shop>
+        <Product>
+          <Model>RCT2 Stalls and Shops@drink</Model>
+          <Price>2</Price>
+          <Type>consumable</Type>
+          <Name>Soda</Name>
+          <Hand>Right</Hand>
+          <ConsumeAnimation>generic</ConsumeAnimation>
+          <Temprature>none</Temprature>
+          <Portions>5</Portions>
+          <Ingredients>
+            <Ingredient>
+              <Name>Soda</Name>
+              <Price>10</Price>
+              <Amount>5</Amount>
+              <tweakable>true</tweakable>
+              <Effects>
+                <effect>
+                  <Type>thirst</Type>
+                  <Amount>-0.3</Amount>
+                </effect>
+              </Effects>
+            </Ingredient>
+          </Ingredients>
+        </Product>
+      </Shop>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+      <BoudingBoxes>
+        <BoudingBox>
+          <min>(-0.5, 0.0, -0.5)</min>
+          <max>(0.5, 0.9, 0.5)</max>
+        </BoudingBox>
+      </BoudingBoxes>
+    </Object>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@fruity_ices_stall</OBJName>
+      <Type>Shop</Type>
+      <inGameName>Fruity Ices Stall</inGameName>
+      <price>260</price>
+      <Shop>
+        <Product>
+          <Model>RCT2 Stalls and Shops@fudge</Model>
+          <Price>2</Price>
+          <Type>consumable</Type>
+          <Name>Fudge</Name>
+          <Hand>Right</Hand>
+          <ConsumeAnimation>lick</ConsumeAnimation>
+          <Temprature>hot</Temprature>
+          <Portions>3</Portions>
+          <Ingredients>
+            <Ingredient>
+              <Name>Chocolate</Name>
+              <Price>10</Price>
+              <Amount>1</Amount>
+              <tweakable>true</tweakable>
+              <Effects>
+                <effect>
+                  <Type>happiness</Type>
+                  <Amount>0.2</Amount>
+                </effect>
+                <effect>
+                  <Type>sugarboost</Type>
+                  <Amount>-0.1</Amount>
+                </effect>
+              </Effects>
+            </Ingredient>
+          </Ingredients>
+        </Product>
+        <Product>
+          <Model>RCT2 Stalls and Shops@popsicle</Model>
+          <Price>2</Price>
+          <Type>consumable</Type>
+          <Name>Popsicle</Name>
+          <Hand>Right</Hand>
+          <ConsumeAnimation>lick</ConsumeAnimation>
+          <Temprature>hot</Temprature>
+          <Portions>3</Portions>
+          <Ingredients>
+            <Ingredient>
+              <Name>Popsicle</Name>
+              <Price>10</Price>
+              <Amount>1</Amount>
+              <tweakable>true</tweakable>
+              <Effects>
+                <effect>
+                  <Type>thirst</Type>
+                  <Amount>-0.3</Amount>
+                </effect>
+                <effect>
+                  <Type>sugarboost</Type>
+                  <Amount>0.1</Amount>
+                </effect>
+              </Effects>
+            </Ingredient>
+          </Ingredients>
+        </Product>
+      </Shop>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+      <BoudingBoxes>
+        <BoudingBox>
+          <min>(-0.5, 0.0, -0.5)</min>
+          <max>(0.5, 1.4, 0.5)</max>
+        </BoudingBox>
+      </BoudingBoxes>
+    </Object>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@drink</OBJName>
+      <Type>none</Type>
+      <inGameName>drink</inGameName>
+      <price>0</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@fudge</OBJName>
+      <Type>none</Type>
+      <inGameName>fudge</inGameName>
+      <price>0</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@popsicle</OBJName>
+      <Type>none</Type>
+      <inGameName>popsicle</inGameName>
+      <price>0</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
+  </Objects>
+</Mod>

@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 1125612108
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9282ab29aa08e6b4a3459574ad3402ae
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e6d74f2d6b370c4d26f3cae461538e43
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+Assets:
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@popsicle.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@fruity_ices_stall.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@fudge.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@drink_stall.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@drink.prefab
+Dependencies: []
