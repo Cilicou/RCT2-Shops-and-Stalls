@@ -139,5 +139,51 @@
       <recolorable>false</recolorable>
       <shader>Diffuse</shader>
     </Object>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@popcorn</OBJName>
+      <Type>Shop</Type>
+      <inGameName>popcorn</inGameName>
+      <price>250</price>
+      <Shop>
+        <Product>
+          <Model>RCT2 Stalls and Shops@Popcornbowl</Model>
+          <Price>3</Price>
+          <Type>consumable</Type>
+          <Name>Popcorn bowl</Name>
+          <Hand>Right</Hand>
+          <ConsumeAnimation>with_hands</ConsumeAnimation>
+          <Temprature>none</Temprature>
+          <Portions>4</Portions>
+          <Ingredients>
+            <Ingredient>
+              <Name>Popcorn</Name>
+              <Price>10</Price>
+              <Amount>1</Amount>
+              <tweakable>true</tweakable>
+              <Effects>
+                <effect>
+                  <Type>hunger</Type>
+                  <Amount>-0.15</Amount>
+                </effect>
+                <effect>
+                  <Type>happiness</Type>
+                  <Amount>0.15</Amount>
+                </effect>
+              </Effects>
+            </Ingredient>
+          </Ingredients>
+        </Product>
+      </Shop>
+      <recolorable>false</recolorable>
+      <shader>None</shader>
+    </Object>
+    <Object>
+      <OBJName>RCT2 Stalls and Shops@Popcornbowl</OBJName>
+      <Type>none</Type>
+      <inGameName>Popcornbowl</inGameName>
+      <price>0</price>
+      <recolorable>false</recolorable>
+      <shader>Diffuse</shader>
+    </Object>
   </Objects>
 </Mod>

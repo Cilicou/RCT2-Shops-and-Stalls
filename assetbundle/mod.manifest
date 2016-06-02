@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1125612108
+CRC: 3254270560
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9282ab29aa08e6b4a3459574ad3402ae
+    Hash: e054e226a7642ec25bcf928f57dd2a9a
   TypeTreeHash:
     serializedVersion: 2
     Hash: e6d74f2d6b370c4d26f3cae461538e43
@@ -26,9 +26,11 @@ ClassTypes:
 - Class: 48
   Script: {instanceID: 0}
 Assets:
-- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@popsicle.prefab
-- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@fruity_ices_stall.prefab
-- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@fudge.prefab
 - Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@drink_stall.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@fudge.prefab
 - Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@drink.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@Popcornbowl.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@fruity_ices_stall.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@popsicle.prefab
+- Assets/Mods/RCT2 Stalls and Shops/RCT2 Stalls and Shops@popcorn.prefab
 Dependencies: []
